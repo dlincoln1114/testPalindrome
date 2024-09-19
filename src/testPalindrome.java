@@ -11,6 +11,7 @@ public class testPalindrome {
     public class Queue{
         private Object[] items;
         private int first,last,count;
+
     }
 
     public static void main(String[] args) {
